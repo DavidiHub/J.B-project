@@ -51,8 +51,8 @@ for Japan - 5\nfor France - 6\nfor Yemen - 7\nfor United-States - 8\nfor Israel 
             # update_vacation('Tokyo', datetime.datetime(day=5, month=9, year=2025), datetime.datetime(day=24, month=10, year=2026), 7000, 4)
             # delete_vacation()
             # like_a_vacation()
-            unlike_vacation()
-            # print('thank you! ')
+            # unlike_vacation()
+            print('thank you! ')
             
             
         except ValueError as arr:
